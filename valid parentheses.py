@@ -33,4 +33,4 @@ class Solution(object):
 
 mine = Solution()
 
-print(mine.isValid("(]"))
+print(mine.isValid("([])[()]{[]}"))
